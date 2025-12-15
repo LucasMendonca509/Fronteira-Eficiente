@@ -51,3 +51,19 @@ O modelo considera:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+---
+
+## 🤖 Uso de Inteligência Artificial como Ferramenta de Apoio
+
+O desenvolvimento deste projeto contou com o uso de ferramentas de Inteligência Artificial (ChatGPT) como apoio ao processo de aprendizado e implementação, especialmente nas etapas de:
+
+- Estruturação do código
+- Organização das funções
+- Esclarecimento de dúvidas técnicas e conceituais
+
+A definição do escopo do projeto, a escolha da metodologia econômica, a interpretação dos resultados e a adequação do modelo aos conteúdos abordados na disciplina de Finanças II foram realizadas pelo autor, em consonância com os objetivos acadêmicos do curso.
+
+
+
