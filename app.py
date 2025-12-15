@@ -5,8 +5,8 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Fronteira Eficiente (Simples)", layout="wide")
-st.title("Simulação de Portfólios — Versão Simples")
+st.set_page_config(page_title="Fronteira Eficiente", layout="wide")
+st.title("Simulação de Portfólios - Fronteira Eficiente (Monte Carlo)")
 
 # ====== Sidebar ======
 st.sidebar.header("Parâmetros")
@@ -171,3 +171,4 @@ if rodar:
                         st.dataframe(px)
 else:
     st.info("Defina os parâmetros na barra lateral e clique em **Rodar**.")
+
